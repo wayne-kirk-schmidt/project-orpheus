@@ -136,7 +136,45 @@ Rather than building a distributed platform or complex framework, the project be
 The objective is understanding the mechanics before introducing abstraction.
 
 ---
+## Support
+
+Project Orpheus is maintained by Wayne Kirk Schmidt.
+
+If you find the project useful, have suggestions, discover issues, or would like to collaborate on archive recovery, audio identity, metadata restoration, or motif recognition research, please reach out.
+
+### About
+
+Project Orpheus began as an exploration into recovering identity from damaged audio archives, including files with missing metadata, corrupted tags, and incomplete naming conventions.
+
+The long-term vision extends beyond archive recovery into musical recollection, allowing users to identify, recover, and rediscover audio through fingerprints, motifs, and memory.
+
+### Contact
+
+- Website: https://www.waynekirkschmidt.me
+- GitHub: https://github.com/wayne-kirk-schmidt
+- LinkedIn: https://www.linkedin.com/in/waynekirkschmidt/
+
+### Related Projects
+
+- Project Orpheus
+
+### Contributing
+
+Contributions, ideas, bug reports, and research discussions are welcome.
+
+Please open an Issue or Pull Request to begin the conversation.
+
+### Project Motto
+
+**Recognition • Recovery • Recollection**
+
+*Recovering identity through sound.*
+
+---
 
 ## License
 
-See [LICENSE](LICENSE).
+This project is licensed under the MIT License.
+
+See [LICENSE](LICENSE) for details.
+
